@@ -804,6 +804,12 @@ The natural choice for those who read the Witcher book series, The Witcher tv ad
 
 > Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
 
+#### [The Umbrella Academy](https://www.imdb.com/title/tt1312171/) (2019-ongoing) [7.7]
+
+Based on Gerard Way's comic series, this is about a group of superpowered adopted siblings as they reunite to solve the mystery of their father’s death — and find out about the impending apocalypse. The cast of heroes and their relationships makes it a worthwhile adventure.. [@Sprigunn](https://github.com/Sprigunn)
+
+> A family of child heroes reunite to protect the world.
+
 ---
 
 ## You got through the list and didn't find anything?
